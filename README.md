@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EricJEstadt
+- 👋 Hi, I’m @EricJ-code
 - 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning java, js, html, css, and c++
 - 💞️ I’m looking to collaborate on ...
